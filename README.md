@@ -31,7 +31,7 @@ Thumblify is a powerful, AI-driven thumbnail generation platform designed to hel
 - **Framework**: [Express 5](https://expressjs.com/)
 - **Language**: [TypeScript](https://www.typescriptlang.org/)
 - **Database**: [MongoDB](https://www.mongodb.com/) (Mongoose ODM)
-- **Authentication**: Express Session with `connect-mongo`
+- **Authentication**: JWT
 - **Image Generation**: [Pollinations.ai](https://pollinations.ai/)
 - **Storage**: [Cloudinary](https://cloudinary.com/)
 
